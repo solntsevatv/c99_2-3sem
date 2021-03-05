@@ -1,0 +1,1 @@
+"Please, input correct n (number of lines)!"

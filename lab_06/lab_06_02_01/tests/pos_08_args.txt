@@ -1,0 +1,1 @@
+.\main.exe pos_08_in.txt sh

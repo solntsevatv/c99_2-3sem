@@ -1,0 +1,1 @@
+./main.exe pos_05_in.txt pos_05_out.txt f

@@ -1,0 +1,1 @@
+char *my_strrchr(char *str, int ch);

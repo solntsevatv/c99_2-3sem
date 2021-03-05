@@ -1,0 +1,1 @@
+main.exe tests/neg_09_in.txt d

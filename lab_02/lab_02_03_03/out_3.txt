@@ -1,0 +1,1 @@
+Please, input correct n! (n > 0 and n <= 10)

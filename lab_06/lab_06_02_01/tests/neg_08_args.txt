@@ -1,0 +1,1 @@
+main.exe neg_08_in.txt sh

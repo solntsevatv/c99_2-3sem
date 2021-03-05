@@ -1,0 +1,1 @@
+./app.exe func_tests/neg_08_in.txt d >out.txt

@@ -1,0 +1,1 @@
+./app.exe neg_02_in.txt neg_02_out.txt f djds
